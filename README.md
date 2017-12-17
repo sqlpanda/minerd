@@ -1,5 +1,9 @@
 # minerd
 
+This is binary build directly based on https://github.com/tpruvot/cpuminer-multi
+
+Please check their page for detail how to use it.
+
 Example:
 
 minerd -a cryptonight -o stratum+tcp://etn.easyhash.io:3630 -u  etnk9uhmhp7WC1Nf87XAd2h6YsN3KTgwUX5g3apezCqMDE86dTDfURmaV6szdUVj6T9CBcH38nWFgTi91k6vU433AXQHSpemxv -p x
